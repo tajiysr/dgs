@@ -3,15 +3,9 @@ body {
 	background: radial-gradient(circle, #fff 20%,  #fef9ff);
   background-size: cover;
   font-family: 'Courgette', cursive;  color: #434244;
-}
-.App {
-  margin-top:10px;
   text-align: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
 }
+
 .baslik{
   font-family: 'Courgette', cursive;  color: #434244;
   padding: 20px;

@@ -85,7 +85,7 @@ else  {
         <div className="container">
       <div className="form-row">
         <div className="form-group col-md-6">
-          <label>Türkçe Doğru Saysını Giriniz</label>
+          <label>Sözel Doğru Saysını Giriniz</label>
           <input
             className="form-control"
             id="t-d"
@@ -94,7 +94,7 @@ else  {
           />
         </div>
         <div className="form-group col-md-6">
-          <label>Türkçe Yanlış Saysını Giriniz</label>
+          <label>Sözel Yanlış Saysını Giriniz</label>
           <input
           className="form-control"
             id="t-y"
@@ -103,7 +103,7 @@ else  {
           />
         </div>
         <div className="form-group col-md-6">
-          <label>Matematik Doğru Saysını Giriniz</label>
+          <label>Sayısal Doğru Saysını Giriniz</label>
           <input
           className="form-control"
             id="m-d"
@@ -112,7 +112,7 @@ else  {
           />
         </div>
         <div className="form-group col-md-6">
-          <label>Matematik Yanlış Saysını Giriniz</label>
+          <label>Sayısal Yanlış Saysını Giriniz</label>
           <input
           className="form-control"
             id="t-y"
