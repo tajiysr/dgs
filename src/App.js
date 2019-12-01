@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "./App.css";
 
+
 function App() {
   const [turkceDogru, setTurkceDogru] = useState(0);
   const [turkceY, setTurkceY] = useState(0);
