@@ -1,22 +1,27 @@
+body {
+	background: white;
+	background: radial-gradient(circle, #fff 20%,  #fef9ff);
+  background-size: cover;
+  font-family: 'Courgette', cursive;  color: #434244;
+}
 .App {
+  margin-top:10px;
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
-
-.App-link {
-  color: #09d3ac;
+.baslik{
+  font-family: 'Courgette', cursive;  color: #434244;
+  padding: 20px;
+}
+.puan{
+  margin-top: 15px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 25px;
+  box-shadow: -1px 4px 53px -10px rgba(242,194,242,1);
 }
